@@ -1,0 +1,6 @@
+{
+  "name": "บันทึกรายรับรายจ่าย",
+  "description": "แอปพลิเคชันบันทึกรายรับรายจ่ายออนไลน์ พร้อมระบบวิเคราะห์ข้อมูล สรุปรายเดือน รองรับ Google Login และการใช้งานบัญชีทดลอง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
